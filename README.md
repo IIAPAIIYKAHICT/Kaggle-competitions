@@ -1,1 +1,1 @@
-# This is my repository with my kaggle competitions notebooks
+# This is my repository with my Kaggle competition notebooks
